@@ -40,10 +40,11 @@ class LoginScreenState extends State<LoginScreen> {
               onPressed: () {
                 // Add your login logic here
               },
-              child: Text('Sign In'),
+              child: Text('SIGN IN'),
             ),
             SizedBox(height: 10.0),
             TextButton(
+
               onPressed: () {
                 // Add your navigation to sign up page logic here
               },
